@@ -1,2 +1,0 @@
-# DevOpsPOC
-official purpose repository
